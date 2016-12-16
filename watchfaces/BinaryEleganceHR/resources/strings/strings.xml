@@ -1,0 +1,48 @@
+<strings>
+
+  <string id="AppName">BinaryEleganceHR</string>    
+    
+  <string id="backgroundStr">Background color</string>
+  <string id="hoursInactiveStr">Hours: inactive state</string>
+  <string id="hoursActiveStr">Hours: active state</string>
+  <string id="minutesInactiveStr">Minutes: inactive state</string>
+  <string id="minutesActiveStr">Minutes: active state</string>
+  <string id="dayInactiveStr">Day: inactive state</string>
+  <string id="dayActiveStr">Day: active state</string>
+  <string id="bluetoothColorStr">Bluetooth icon color</string>
+  <string id="notificationsColorStr">Notifications icon color</string>
+  <string id="alarmColorStr">Alarm icon color</string>
+  <string id="heartColorStr">Heart icon color</string>
+  <string id="moonColorStr">Don't disturb icon color</string>
+  <string id="batteryColorStr">Low Battery icon color</string>
+  <string id="showDayStr">Show Day of Month</string>
+  <string id="squareSizeStr">Size of squares</string>
+  <string id="lowBatteryThresholdStr">Low Battery Threshold</string>
+  <string id="lowBatteryErrorStr">Min value is 1, Max value is 99</string>
+
+  <string id="smallStr">Small</string>
+  <string id="mediumStr">Medium</string>
+  <string id="largeStr">Large</string>
+  
+  
+  <string id="squareSpaceStr">Space of squares</string>
+  
+  <string id="wideStr">Wide</string>
+  <string id="narrowStr">Narrow</string>
+
+  <string id="clrBlack">Black</string>
+  <string id="clrDarkGray">Dark Gray</string>
+  <string id="clrLightGray">Light Gray</string>
+  <string id="clrWhite">White</string>
+  <string id="clrBlue">Blue</string>
+  <string id="clrDarkBlue">Dark Blue</string>
+  <string id="clrRed">Red</string>
+  <string id="clrDarkRed">Dark Red</string>
+  <string id="clrOrange">Orange</string>
+  <string id="clrYellow">Yellow</string>
+  <string id="clrGreen">Green</string>
+  <string id="clrDarkGreen">Dark Green</string>
+  <string id="clrPurple">Purple</string>
+  <string id="clrPink">Pink</string>    
+    
+</strings>

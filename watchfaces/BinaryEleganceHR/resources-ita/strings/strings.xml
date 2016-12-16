@@ -1,0 +1,44 @@
+<strings>
+  <string id="AppName">BinaryEleganceHR</string>    
+  <string id="backgroundStr">Colore Sfondo</string>
+  <string id="hoursInactiveStr">Ore: Valore bit = 0</string>
+  <string id="hoursActiveStr">Ore: Valore bit = 1</string>
+  <string id="minutesInactiveStr">Minuti: Valore bit = 0</string>
+  <string id="minutesActiveStr">Minuti: Valore bit = 1</string>
+  <string id="dayInactiveStr">Giorno: Valore bit = 0</string>
+  <string id="dayActiveStr">Giorno: Valore bit = 0</string>
+  <string id="bluetoothColorStr">Colore icona Bluetooth</string>
+  <string id="notificationsColorStr">Colore icona Notifiche</string>
+  <string id="alarmColorStr">Colore icona Allarme</string>
+  <string id="heartColorStr">Colore icona Cardio</string>
+  <string id="moonColorStr">Colore icona Non Disturbare</string>
+  <string id="batteryColorStr">Colore icona Batteria Scarica</string>
+  <string id="showDayStr">Mostra Giorno del Mese</string>
+  <string id="squareSizeStr">Dimensione dei bit</string>
+  <string id="lowBatteryThresholdStr">Soglia icona Batteria Scarica</string>  
+  <string id="lowBatteryErrorStr">Valore Minimo 1, Valore Massimo 99</string>
+  
+  <string id="smallStr">Piccoli</string>
+  <string id="mediumStr">Medi</string>
+  <string id="largeStr">Grandi</string>
+  
+  <string id="squareSpaceStr">Spaziatura dei bit</string>
+  
+  <string id="wideStr">Larga</string>
+  <string id="narrowStr">Stretta</string>
+  
+  <string id="clrBlack">Nero</string>
+  <string id="clrDarkGray">Grigio Scuro</string>
+  <string id="clrLightGray">Grigio Chiaro</string>
+  <string id="clrWhite">Bianco</string>
+  <string id="clrBlue">Blu</string>
+  <string id="clrDarkBlue">Blu Scuro</string>
+  <string id="clrRed">Rosso</string>
+  <string id="clrDarkRed">Rosso Scuro</string>
+  <string id="clrOrange">Arancio</string>
+  <string id="clrYellow">Giallo</string>
+  <string id="clrGreen">Verde</string>
+  <string id="clrDarkGreen">Verde Scuro</string>
+  <string id="clrPurple">Viola</string>
+  <string id="clrPink">Rosa</string>            
+</strings>

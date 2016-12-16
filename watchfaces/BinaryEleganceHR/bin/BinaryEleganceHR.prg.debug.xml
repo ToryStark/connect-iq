@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="50" pc="268435456" symbol="initialize"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="51" pc="268435460" symbol="initialize"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="55" pc="268435479" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="56" pc="268435483" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="58" pc="268435520" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="59" pc="268435537" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="60" pc="268435576" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="61" pc="268435615" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="62" pc="268435654" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="63" pc="268435693" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="64" pc="268435732" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="65" pc="268435771" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="66" pc="268435810" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="67" pc="268435852" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="68" pc="268435894" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="69" pc="268435936" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="70" pc="268435978" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="71" pc="268436020" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="73" pc="268436062" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="74" pc="268436086" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="75" pc="268436126" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="76" pc="268436166" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="78" pc="268436190" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="79" pc="268436200" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="80" pc="268436219" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="81" pc="268436238" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="82" pc="268436260" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="84" pc="268436282" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="85" pc="268436299" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="87" pc="268436315" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="89" pc="268436325" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="91" pc="268436364" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="92" pc="268436382" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="93" pc="268436401" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="94" pc="268436414" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="95" pc="268436433" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="97" pc="268436476" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="100" pc="268436519" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="101" pc="268436559" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="104" pc="268436598" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="105" pc="268436615" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="106" pc="268436630" symbol="onLayout"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="116" pc="268436647" symbol="onShow"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="117" pc="268436651" symbol="onShow"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="123" pc="268436695" symbol="onUpdate"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="124" pc="268436699" symbol="onUpdate"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="125" pc="268436723" symbol="onUpdate"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="128" pc="268436735" symbol="onUpdate"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="129" pc="268436752" symbol="onUpdate"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="130" pc="268436769" symbol="onUpdate"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="131" pc="268436812" symbol="onUpdate"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="132" pc="268436855" symbol="onUpdate"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="133" pc="268436875" symbol="onUpdate"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="134" pc="268436895" symbol="onUpdate"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="135" pc="268436912" symbol="onUpdate"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="138" pc="268436931" symbol="onUpdate"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="140" pc="268436948" symbol="onUpdate"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="147" pc="268436961" symbol="onHide"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="148" pc="268436965" symbol="onHide"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="149" pc="268436974" symbol="onHide"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="153" pc="268436984" symbol="onExitSleep"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="157" pc="268436989" symbol="onEnterSleep"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="161" pc="268436994" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="162" pc="268436998" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="163" pc="268436998" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="164" pc="268437005" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="165" pc="268437017" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="166" pc="268437024" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="167" pc="268437035" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="171" pc="268437051" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="172" pc="268437124" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="173" pc="268437149" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="175" pc="268437159" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="176" pc="268437174" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="177" pc="268437237" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="180" pc="268437287" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="181" pc="268437360" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="182" pc="268437385" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="184" pc="268437395" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="185" pc="268437413" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="186" pc="268437476" symbol="drawHours"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="191" pc="268437527" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="192" pc="268437531" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="194" pc="268437531" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="195" pc="268437604" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="196" pc="268437629" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="198" pc="268437639" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="199" pc="268437657" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="200" pc="268437720" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="203" pc="268437770" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="204" pc="268437843" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="205" pc="268437868" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="207" pc="268437878" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="208" pc="268437896" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="209" pc="268437959" symbol="drawMinutes"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="213" pc="268438010" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="214" pc="268438014" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="216" pc="268438014" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="217" pc="268438078" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="218" pc="268438103" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="220" pc="268438113" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="221" pc="268438131" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="222" pc="268438194" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="225" pc="268438244" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="226" pc="268438308" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="227" pc="268438333" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="229" pc="268438343" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="230" pc="268438361" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="231" pc="268438424" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="235" pc="268438474" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="236" pc="268438499" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="237" pc="268438533" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="238" pc="268438578" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="240" pc="268438622" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="241" pc="268438647" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="242" pc="268438711" symbol="drawDay"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="248" pc="268438765" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="249" pc="268438769" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="250" pc="268438777" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="252" pc="268438794" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="253" pc="268438811" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="254" pc="268438831" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="255" pc="268438896" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="258" pc="268438964" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="259" pc="268438967" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="260" pc="268438978" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="261" pc="268439014" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="262" pc="268439027" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="265" pc="268439040" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="266" pc="268439057" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="269" pc="268439085" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="270" pc="268439092" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="273" pc="268439120" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="274" pc="268439131" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="277" pc="268439159" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="278" pc="268439176" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="281" pc="268439204" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="282" pc="268439215" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="285" pc="268439243" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="286" pc="268439256" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="287" pc="268439267" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="288" pc="268439280" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="289" pc="268439290" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="290" pc="268439412" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="291" pc="268439431" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="292" pc="268439446" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="293" pc="268439508" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="294" pc="268439551" symbol="drawIcons"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="300" pc="268439581" symbol="drawSquare"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="301" pc="268439585" symbol="drawSquare"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="304" pc="268439624" symbol="drawMiddle"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="305" pc="268439628" symbol="drawMiddle"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="306" pc="268439645" symbol="drawMiddle"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="309" pc="268439705" symbol="setForeground"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRView.mc" lineNum="310" pc="268439709" symbol="setForeground"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRBackground.mc" lineNum="23" pc="268439752" symbol="initialize"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRBackground.mc" lineNum="24" pc="268439756" symbol="initialize"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRBackground.mc" lineNum="28" pc="268439777" symbol="initialize"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRBackground.mc" lineNum="31" pc="268439798" symbol="draw"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRBackground.mc" lineNum="33" pc="268439802" symbol="draw"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRBackground.mc" lineNum="34" pc="268439855" symbol="draw"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRApp.mc" lineNum="22" pc="268439868" symbol="initialize"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRApp.mc" lineNum="23" pc="268439872" symbol="initialize"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRApp.mc" lineNum="27" pc="268439891" symbol="onStart"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRApp.mc" lineNum="31" pc="268439896" symbol="onStop"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRApp.mc" lineNum="35" pc="268439901" symbol="getInitialView"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRApp.mc" lineNum="36" pc="268439905" symbol="getInitialView"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRApp.mc" lineNum="40" pc="268439943" symbol="onSettingsChanged"/>
+<entry filename="D:\\ConnectIQ_Developement\\workspace\\BinaryEleganceHR\\source\\BinaryEleganceHRApp.mc" lineNum="41" pc="268439947" symbol="onSettingsChanged"/>
+<entry filename="Rez" lineNum="56" pc="268439964" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="58" pc="268439968" symbol="WatchFace"/>
+<entry filename="Rez" lineNum="61" pc="268439992" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="29" symbol="minutesInactiveStr"/>
+<entry field="true" id="28" symbol="lowBatteryErrorStr"/>
+<entry id="73" symbol="drawHours"/>
+<entry id="8389781" symbol="SensorHistory"/>
+<entry field="true" id="24" symbol="alarmColorStr"/>
+<entry field="true" id="50" symbol="clrRed"/>
+<entry field="true" id="54" symbol="ICON_ALARM"/>
+<entry field="true" id="56" symbol="ICON_NOTIFICATION"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry field="true" id="49" symbol="wideStr"/>
+<entry id="70" symbol="hasHR"/>
+<entry id="71" symbol="batteryOffset"/>
+<entry id="72" symbol="lowBatteryThreshold"/>
+<entry field="true" id="36" symbol="clrDarkRed"/>
+<entry field="true" id="23" symbol="clrOrange"/>
+<entry field="true" id="8388611" symbol="Toybox"/>
+<entry id="8388645" symbol="Time"/>
+<entry id="74" symbol="drawMinutes"/>
+<entry id="61" symbol="dayOffset"/>
+<entry field="true" id="40" symbol="dayActiveStr"/>
+<entry field="true" id="17" symbol="clrDarkGray"/>
+<entry field="true" id="35" symbol="clrYellow"/>
+<entry field="true" id="32" symbol="clrDarkGreen"/>
+<entry id="8388770" module="true" symbol="Strings"/>
+<entry id="10" object="true" symbol="BinaryEleganceHRApp"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388640" symbol="Lang"/>
+<entry field="true" id="31" symbol="clrBlue"/>
+<entry id="8" object="true" symbol="BinaryEleganceHRView"/>
+<entry id="69" symbol="drawingcontext"/>
+<entry id="8389761" symbol="centerY"/>
+<entry id="8389760" symbol="centerX"/>
+<entry id="8389401" symbol="is24Hour"/>
+<entry field="true" id="43" symbol="notificationsColorStr"/>
+<entry id="8388769" module="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="22" symbol="clrDarkBlue"/>
+<entry id="8389808" symbol="period"/>
+<entry id="63" symbol="screenW"/>
+<entry field="true" id="60" symbol="JUSTIFICATION"/>
+<entry field="true" id="44" symbol="smallStr"/>
+<entry id="62" symbol="screenH"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="15" symbol="clrGreen"/>
+<entry field="true" id="27" symbol="AppName"/>
+<entry id="77" symbol="drawSquare"/>
+<entry id="8389375" method="true" symbol="WatchFace"/>
+<entry field="true" id="46" symbol="clrWhite"/>
+<entry field="true" id="25" symbol="narrowStr"/>
+<entry field="true" id="26" symbol="minutesActiveStr"/>
+<entry field="true" id="52" symbol="clrPink"/>
+<entry id="9" object="true" symbol="Background"/>
+<entry field="true" id="21" symbol="bluetoothColorStr"/>
+<entry field="true" id="47" symbol="heartColorStr"/>
+<entry field="true" id="19" symbol="clrBlack"/>
+<entry id="8388641" symbol="Math"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry field="true" id="30" symbol="showDayStr"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="33" symbol="clrLightGray"/>
+<entry id="8388771" module="true" symbol="Drawables"/>
+<entry field="true" id="38" symbol="largeStr"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry field="true" id="58" symbol="ICON_BATTERY"/>
+<entry field="true" id="16" symbol="backgroundStr"/>
+<entry id="75" symbol="drawDay"/>
+<entry field="true" id="18" symbol="moonColorStr"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="65" symbol="iconFont"/>
+<entry field="true" id="48" symbol="squareSizeStr"/>
+<entry id="76" symbol="drawIcons"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry id="66" symbol="shapeOffset"/>
+<entry field="true" id="57" symbol="ICON_MOON"/>
+<entry id="68" symbol="squareSpace"/>
+<entry field="true" id="42" symbol="squareSpaceStr"/>
+<entry field="true" id="41" symbol="hoursActiveStr"/>
+<entry id="8389702" symbol="getHeartRateHistory"/>
+<entry id="78" symbol="drawMiddle"/>
+<entry id="12" module="true" symbol="Layouts"/>
+<entry field="true" id="14" symbol="id_font"/>
+<entry field="true" id="55" symbol="ICON_BLUETOOTH"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="34" symbol="lowBatteryThresholdStr"/>
+<entry field="true" id="45" symbol="batteryColorStr"/>
+<entry field="true" id="20" symbol="mediumStr"/>
+<entry id="79" symbol="setForeground"/>
+<entry id="64" symbol="colors"/>
+<entry id="8389063" symbol="identifier"/>
+<entry id="67" symbol="squareSize"/>
+<entry field="true" id="53" symbol="ICON_HEART"/>
+<entry field="true" id="51" symbol="dayInactiveStr"/>
+<entry id="11" module="true" symbol="Menus"/>
+<entry field="true" id="39" symbol="hoursInactiveStr"/>
+<entry field="true" id="37" symbol="clrPurple"/>
+<entry id="8388772" module="true" symbol="Fonts"/>
+<entry field="true" id="59" symbol="ICON_OFFSET"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436646" name="shape" stackId="4" startPc="268435483"/>
+<entry endPc="268436646" name="settings" stackId="3" startPc="268435483"/>
+<entry endPc="268436646" name="app" stackId="2" startPc="268435483"/>
+<entry endPc="268436960" name="currentDate" stackId="3" startPc="268436699"/>
+<entry endPc="268436960" name="currentDayOfWeek" stackId="5" startPc="268436699"/>
+<entry endPc="268436960" name="clockTime" stackId="2" startPc="268436699"/>
+<entry endPc="268436960" name="activity" stackId="6" startPc="268436699"/>
+<entry endPc="268436960" name="currentDayOfMonth" stackId="4" startPc="268436699"/>
+<entry endPc="268437287" name="i" stackId="6" startPc="268437174"/>
+<entry endPc="268437526" name="i" stackId="7" startPc="268437413"/>
+<entry endPc="268437526" name="x" stackId="2" startPc="268436998"/>
+<entry endPc="268437526" name="bounds" stackId="5" startPc="268436998"/>
+<entry endPc="268437526" name="digit" stackId="4" startPc="268436998"/>
+<entry endPc="268437526" name="y" stackId="3" startPc="268436998"/>
+<entry endPc="268437770" name="i" stackId="5" startPc="268437657"/>
+<entry endPc="268438009" name="i" stackId="6" startPc="268437896"/>
+<entry endPc="268438009" name="x" stackId="2" startPc="268437531"/>
+<entry endPc="268438009" name="digit" stackId="4" startPc="268437531"/>
+<entry endPc="268438009" name="y" stackId="3" startPc="268437531"/>
+<entry endPc="268438244" name="i" stackId="6" startPc="268438131"/>
+<entry endPc="268438474" name="i" stackId="7" startPc="268438361"/>
+<entry endPc="268438764" name="x" stackId="3" startPc="268438014"/>
+<entry endPc="268438764" name="digit" stackId="5" startPc="268438014"/>
+<entry endPc="268438764" name="y" stackId="4" startPc="268438014"/>
+<entry endPc="268439037" name="HRSample" stackId="6" startPc="268438978"/>
+<entry endPc="268439037" name="HRiterator" stackId="5" startPc="268438978"/>
+<entry endPc="268439577" name="i" stackId="12" startPc="268439446"/>
+<entry endPc="268439577" name="x" stackId="10" startPc="268439267"/>
+<entry endPc="268439577" name="shape" stackId="9" startPc="268439267"/>
+<entry endPc="268439577" name="values" stackId="8" startPc="268439267"/>
+<entry endPc="268439577" name="y" stackId="11" startPc="268439267"/>
+<entry endPc="268439580" name="size" stackId="7" startPc="268438769"/>
+<entry endPc="268439580" name="stats" stackId="3" startPc="268438769"/>
+<entry endPc="268439580" name="icons" stackId="1" startPc="268438769"/>
+<entry endPc="268439580" name="settings" stackId="2" startPc="268438769"/>
+<entry endPc="268439580" name="hr_sample" stackId="4" startPc="268438769"/>
+<entry endPc="268439797" name="dictionary" stackId="1" startPc="268439756"/>
+<entry endPc="268440009" name="rez_cmp_local_custom_drawable_G2GTPWZFKCL9C4M7PSV1" stackId="2" startPc="268439968"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry name="initialize" parent="BinaryEleganceHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onLayout" parent="BinaryEleganceHRView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onShow" parent="BinaryEleganceHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onUpdate" parent="BinaryEleganceHRView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onHide" parent="BinaryEleganceHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onExitSleep" parent="BinaryEleganceHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="onEnterSleep" parent="BinaryEleganceHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="drawHours" parent="BinaryEleganceHRView">
+<param id="hours"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawMinutes" parent="BinaryEleganceHRView">
+<param id="minutes"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawDay" parent="BinaryEleganceHRView">
+<param id="day"/>
+<param id="dow"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawIcons" parent="BinaryEleganceHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="drawSquare" parent="BinaryEleganceHRView">
+<param id="x"/>
+<param id="y"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="drawMiddle" parent="BinaryEleganceHRView">
+<documentation/>
+</functionEntry>
+<functionEntry name="setForeground" parent="BinaryEleganceHRView">
+<param id="color"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="initialize" parent="BinaryEleganceHRApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onStart" parent="BinaryEleganceHRApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="onStop" parent="BinaryEleganceHRApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry name="getInitialView" parent="BinaryEleganceHRApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="onSettingsChanged" parent="BinaryEleganceHRApp">
+<documentation/>
+</functionEntry>
+<functionEntry name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+</debugInfo>

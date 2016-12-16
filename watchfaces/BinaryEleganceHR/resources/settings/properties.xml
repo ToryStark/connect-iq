@@ -1,0 +1,20 @@
+<properties>
+
+    <property id="background" type="number">0x000000</property>
+    <property id="hoursInactive" type="number">0x555555</property>
+    <property id="hoursActive" type="number">0xFFFFFF</property>
+    <property id="minutesInactive" type="number">0x555555</property>
+    <property id="minutesActive" type="number">0xFFFFFF</property>
+    <property id="dayInactive" type="number">0x555555</property>
+    <property id="dayActive" type="number">0xFFFFFF</property>
+    <property id="alarmColor" type="number">0xFFFFFF</property>
+    <property id="bluetoothColor" type="number">0xFFFFFF</property>
+    <property id="notificationsColor" type="number">0xFFFFFF</property>
+    <property id="heartColor" type="number">0xFFFFFF</property>
+    <property id="moonColor" type="number">0xFFFFFF</property>
+    <property id="batteryColor" type="number">0xFFFFFF</property>
+    <property id="showDay" type="boolean">true</property>
+    <property id="squareSize" type="number">15</property>
+    <property id="squareSpace" type="number">1</property>
+    <property id="lowBatteryThreshold" type="number">15</property>
+</properties>
