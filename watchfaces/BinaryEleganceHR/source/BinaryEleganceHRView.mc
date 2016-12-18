@@ -46,6 +46,7 @@ class BinaryEleganceHRView extends Ui.WatchFace {
 	hidden var hasHR = false;
 	hidden var batteryOffset;
 	hidden var lowBatteryThreshold;
+	hidden var isAwake;
 
     function initialize() {
         WatchFace.initialize();
@@ -145,16 +146,19 @@ class BinaryEleganceHRView extends Ui.WatchFace {
     // state of this View here. This includes freeing resources from
     // memory.
     function onHide() {
-	    colors = null;
-	    iconFont = null;    
+//	    colors = null;
+//	    iconFont = null;    
     }
 
     // The user has just looked at their watch. Timers and animations may be started here.
     function onExitSleep() {
+        isAwake = true;    
     }
 
     // Terminate any active timers and prepare for slow updates.
     function onEnterSleep() {
+        isAwake = false;
+        Ui.requestUpdate();
     }
 
 
