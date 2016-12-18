@@ -6,7 +6,7 @@
   <string id="minutesInactiveStr">Minuti: Valore bit = 0</string>
   <string id="minutesActiveStr">Minuti: Valore bit = 1</string>
   <string id="dayInactiveStr">Giorno: Valore bit = 0</string>
-  <string id="dayActiveStr">Giorno: Valore bit = 0</string>
+  <string id="dayActiveStr">Giorno: Valore bit = 1</string>
   <string id="bluetoothColorStr">Colore icona Bluetooth</string>
   <string id="notificationsColorStr">Colore icona Notifiche</string>
   <string id="alarmColorStr">Colore icona Allarme</string>
