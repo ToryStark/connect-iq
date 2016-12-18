@@ -1,3 +1,4 @@
+//! BinaryEleganceHR Version: 1.0.2
 //! Copyright (C) 2016 Simone Torelli <simone.torelli@gmail.com>
 //! Copyright (C) 2016 Sven Meyer <meyer@modell-aachen.de> (for reused code from Binary Elegance watch face)
 //!
@@ -44,6 +45,7 @@ class BinaryEleganceHRView extends Ui.WatchFace {
   	hidden var squareSpace;
   	hidden var drawingcontext;
 	hidden var hasHR = false;
+	hidden var hasDoNotDisturb = false;
 	hidden var batteryOffset;
 	hidden var lowBatteryThreshold;
 	hidden var isAwake;
@@ -108,6 +110,9 @@ class BinaryEleganceHRView extends Ui.WatchFace {
 			}
 		}
       
+        if (Sys.getDeviceSettings() has :doNotDisturb) {
+            hasDoNotDisturb = true;
+        }
     
     }
 
@@ -282,10 +287,12 @@ class BinaryEleganceHRView extends Ui.WatchFace {
 	      icons.put("3", ICON_NOTIFICATION);
 	    }
 
-	    if (settings.doNotDisturb) {
-	      icons.put("4", ICON_MOON);
-	    }
-	
+		if (hasDoNotDisturb) {
+		    if (settings.doNotDisturb) {
+		      icons.put("4", ICON_MOON);
+		    }
+		}
+			
 	    var size = icons.size();
 	    if (size > 0) {
 	      var values = icons.values();
