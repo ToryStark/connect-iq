@@ -1,4 +1,4 @@
-//! BinaryEleganceHR Version: 1.0.2
+//! BinaryEleganceHR Version: 1.0.3
 //! Copyright (C) 2016 Simone Torelli <simone.torelli@gmail.com>
 //! Copyright (C) 2016 Sven Meyer <meyer@modell-aachen.de> (for reused code from Binary Elegance watch face)
 //!
@@ -36,6 +36,7 @@ class BinaryEleganceHRView extends Ui.WatchFace {
     const JUSTIFICATION = Gfx.TEXT_JUSTIFY_CENTER | Gfx.TEXT_JUSTIFY_VCENTER;
 
   	hidden var dayOffset;
+  	hidden var dayOfWeek;
   	hidden var centerX, centerY, screenH, screenW;
   	hidden var colors = {};
   	hidden var iconFont;
@@ -72,10 +73,12 @@ class BinaryEleganceHRView extends Ui.WatchFace {
 	    colors.put(ICON_BLUETOOTH, app.getProperty("bluetoothColor"));
 	    colors.put(ICON_MOON, app.getProperty("moonColor"));
 	    colors.put(ICON_BATTERY, app.getProperty("batteryColor"));
+	    colors.put("dow", app.getProperty("dowColor"));
 
     	squareSize = app.getProperty("squareSize");    	
         squareSpace = app.getProperty("squareSpace") ? 1.7 : 1.5;
-	    dayOffset = app.getProperty("showDay") ? 0 : 1;
+	    dayOffset = app.getProperty("showDayOfMonth") ? 0 : 1;
+	    dayOfWeek = app.getProperty("showDayOfWeek"); 
 	    lowBatteryThreshold = app.getProperty("lowBatteryThreshold");
 	    
         drawingcontext = dc;    
@@ -94,7 +97,7 @@ class BinaryEleganceHRView extends Ui.WatchFace {
     	if (shape == Sys.SCREEN_SHAPE_RECTANGLE) {
       		centerY -= 5;
       		shapeOffset = 15;
-		    if (app.getProperty("showDay")) {
+		    if (app.getProperty("showDayOfMonth")) {
 		        squareSpace = app.getProperty("squareSpace") ? 1.7 : 1.5;
 	    	} else {
 		        squareSpace = app.getProperty("squareSpace") ? 2 : 1.5;    	
@@ -240,17 +243,16 @@ class BinaryEleganceHRView extends Ui.WatchFace {
 	      drawSquare(x, y - squareSpace*i*squareSize);
 	    }
 
-
-	    y = centerY + 3.5*squareSize;
-	    x = x - ((squareSpace - 1) * squareSize / 2);
-        drawingcontext.setColor(0xFFFFFF, colors.get("bg"));
-        drawingcontext.drawText(x, y, Gfx.FONT_SMALL, dow, JUSTIFICATION);
-
-	    y = centerY + 2.8*squareSize;        
-		x = centerX + 1*squareSpace*squareSize + ((squareSpace - 1) * squareSize / 2);	    
-		drawingcontext.drawLine(x, y, x + squareSpace*squareSize + squareSize, y);
-
-	    
+		if (dayOfWeek) {
+		    y = centerY + 3.5*squareSize;
+		    x = x - ((squareSpace - 1) * squareSize / 2);
+	        drawingcontext.setColor(colors.get("dow"), colors.get("bg"));
+	        drawingcontext.drawText(x, y, Gfx.FONT_SMALL, dow, JUSTIFICATION);
+	
+		    y = centerY + 2.9*squareSize;        
+			x = centerX + 1*squareSpace*squareSize + ((squareSpace - 1) * squareSize / 2);	    
+			drawingcontext.drawLine(x, y, x + squareSpace*squareSize + squareSize, y);			
+		}	    
 	    
 	  }
 	  
