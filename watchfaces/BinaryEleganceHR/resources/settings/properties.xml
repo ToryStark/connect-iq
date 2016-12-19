@@ -13,7 +13,9 @@
     <property id="heartColor" type="number">0xFFFFFF</property>
     <property id="moonColor" type="number">0xFFFFFF</property>
     <property id="batteryColor" type="number">0xFFFFFF</property>
-    <property id="showDay" type="boolean">true</property>
+    <property id="showDayOfMonth" type="boolean">true</property>
+    <property id="showDayOfWeek" type="boolean">true</property>
+    <property id="dowColor" type="number">0xFFFFFF</property>    
     <property id="squareSize" type="number">15</property>
     <property id="squareSpace" type="number">1</property>
     <property id="lowBatteryThreshold" type="number">15</property>

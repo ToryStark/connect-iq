@@ -1,9 +1,4 @@
 <settings>
-        
-    <setting propertyKey="@Properties.showDay" title="@Strings.showDayStr">
-      <settingConfig type="boolean" />
-    </setting>
-
     <setting propertyKey="@Properties.squareSize" title="@Strings.squareSizeStr">
       <settingConfig type="list">
         <listEntry value="10">@Strings.smallStr</listEntry>
@@ -16,6 +11,33 @@
       <settingConfig type="list">
         <listEntry value="1">@Strings.wideStr</listEntry>
         <listEntry value="0">@Strings.narrowStr</listEntry>
+      </settingConfig>
+    </setting>
+        
+    <setting propertyKey="@Properties.showDayOfMonth" title="@Strings.showDayOfMonthStr">
+      <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.showDayOfWeek" title="@Strings.showDayOfWeekStr">
+      <settingConfig type="boolean" />
+    </setting>
+
+    <setting propertyKey="@Properties.dowColor" title="@Strings.dowColorStr">
+      <settingConfig type="list">
+        <listEntry value="0x000000">@Strings.clrBlack</listEntry>
+        <listEntry value="0xFFFFFF">@Strings.clrWhite</listEntry>
+        <listEntry value="0xAAAAAA">@Strings.clrLightGray</listEntry>
+        <listEntry value="0x555555">@Strings.clrDarkGray</listEntry>
+        <listEntry value="0x00AAFF">@Strings.clrBlue</listEntry>
+        <listEntry value="0x0000FF">@Strings.clrDarkBlue</listEntry>
+        <listEntry value="0x00FF00">@Strings.clrGreen</listEntry>
+        <listEntry value="0x00AA00">@Strings.clrDarkGreen</listEntry>
+        <listEntry value="0xFFAA00">@Strings.clrYellow</listEntry>
+        <listEntry value="0xFF5500">@Strings.clrOrange</listEntry>
+        <listEntry value="0xFF0000">@Strings.clrRed</listEntry>
+        <listEntry value="0xAA0000">@Strings.clrDarkRed</listEntry>
+        <listEntry value="0xFF00FF">@Strings.clrPink</listEntry>
+        <listEntry value="0xAA00FF">@Strings.clrPurple</listEntry>
       </settingConfig>
     </setting>
 
