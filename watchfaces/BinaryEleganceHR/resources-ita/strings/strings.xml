@@ -13,7 +13,9 @@
   <string id="heartColorStr">Colore icona Cardio</string>
   <string id="moonColorStr">Colore icona Non Disturbare</string>
   <string id="batteryColorStr">Colore icona Batteria Scarica</string>
-  <string id="showDayStr">Mostra Giorno del Mese</string>
+  <string id="showDayOfMonthStr">Mostra Giorno del Mese</string>
+  <string id="showDayOfWeekStr">Mostra Giorno della Settimana</string>  
+  <string id="dowColorStr">Colore Giorno della Settimana</string>
   <string id="squareSizeStr">Dimensione dei bit</string>
   <string id="lowBatteryThresholdStr">Soglia icona Batteria Scarica</string>  
   <string id="lowBatteryErrorStr">Valore Minimo 1, Valore Massimo 99</string>
