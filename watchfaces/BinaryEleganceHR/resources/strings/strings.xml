@@ -15,7 +15,9 @@
   <string id="heartColorStr">Heart icon color</string>
   <string id="moonColorStr">Don't disturb icon color</string>
   <string id="batteryColorStr">Low Battery icon color</string>
-  <string id="showDayStr">Show Day of Month</string>
+  <string id="showDayOfMonthStr">Show Day of the Month</string>
+  <string id="showDayOfWeekStr">Show Day of the Week</string>
+  <string id="dowColorStr">Day of the Week color</string>
   <string id="squareSizeStr">Size of squares</string>
   <string id="lowBatteryThresholdStr">Low Battery Threshold</string>
   <string id="lowBatteryErrorStr">Min value is 1, Max value is 99</string>
